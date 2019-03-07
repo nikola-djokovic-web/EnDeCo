@@ -18,7 +18,9 @@
         'plant-description' => 'Dizajn postrojenja je jedan od naših glavnih poslova - detaljna i individualna rešenja iz jednog izvora.
             Već dugi niz godina, EnDeCoekperts su bili vredan partner u konsaltingu i dizajnu postrojenja za kompanije iz različitih sektora.
             <br> Naše usluge uključuju: <br> <br> • Inženjering, <br> • P & ID <br> • Dizajn industrijskih postrojenja <br> • Priprema tehničke dokumentacije <br> • Piping, itd.',
-        'consulting-description' => 'U smislu našeg pristupa konsaltingu, EnDeCo tretira svaki slučaj kao da smo morali sami da gradimo fabriku na osnovu našeg saveta - bez obzira da li će treća strana voditi računa o izgradnji postrojenja. Studija izvodljivosti, ili definicija trenutnog i ciljnog stanja, u EnDeCo-u, doći ćemo do posla koristeći svo naše iskustvo i znanje.',
+        'consulting-description' => 'U smislu našeg pristupa konsaltingu, EnDeCo tretira svaki slučaj kao da smo morali sami da gradimo fabriku
+            na osnovu našeg saveta - bez obzira da li će treća strana voditi računa o izgradnji postrojenja.
+            Bez obzira da li vam je potreban ekspertski izveštaj, studija izvodljivosti ili definicija trenutnog i ciljnog stanja, u EnDeCo-u, koristićemo svo naše iskustvo i znanje da bismo došli do cilja.',
         'technical-revisions-description' => 'EnDeCo eksperti imaju veliko iskustvo u tehničkim kontrolama dizajnerskih projekata i glavnih projekata u različitim industrijskim oblastima.',
         'helpline' => 'Naša linija za pomoć je uvek otvorena za primanje bilo kakvih upita ili povratnih informacija.',
         'yourname' => 'Vaše ime',
