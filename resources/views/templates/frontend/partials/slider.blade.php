@@ -31,7 +31,7 @@
 						data-endspeed="600"
 
 						>
-						<h3 class="c-main-title c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white">
+						<h3 class="c-main-title c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white title-shaddow">
 						@lang('front.eng-solutions')
 						</h3>
 					</div>
@@ -103,7 +103,7 @@
 						data-endspeed="600"
 
 						>
-						<h3 class="c-main-title c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white">
+						<h3 class="c-main-title c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white title-shaddow">
 						@lang('front.plant')
 						</h3>
 					</div>
@@ -152,7 +152,7 @@
 						data-endspeed="600"
 
 						>
-						<h3 class="c-main-title c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white">
+						<h3 class="c-main-title c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white title-shaddow">
 						@lang('front.consulting')
 						</h3>
 					</div>

@@ -6,7 +6,7 @@
 
 @section('content')
 <div class="row" style="margin-top: 50px;">
-  <div class='col-md-8'>
+  <div class='col-md-12 col-lg-11'>
     <table id="myTable" class="display" style="width:100%">
           <thead>
               <tr>

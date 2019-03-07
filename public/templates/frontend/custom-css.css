@@ -35,11 +35,8 @@ h4 {
   z-index: 10;
 }
 
-#inverted {
-  background: inherit;
-  background-clip: text;
-  color: transparent;
-  filter: invert(1);
+.title-shaddow {
+  text-shadow: 2px 2px black;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {

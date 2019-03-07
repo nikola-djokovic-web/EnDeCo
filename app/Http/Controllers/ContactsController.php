@@ -31,7 +31,7 @@ class ContactsController extends Controller
 
           // return redirect( route('thanks-message') );
           session()->flash('message-type', "success");
-          session()->flash('message', 'Poruka poslata');
+          session()->flash('message', 'Message sent successfully.');
 
 
           \Mail::to('test@gmail.com')->send( new Comment($contact) );
