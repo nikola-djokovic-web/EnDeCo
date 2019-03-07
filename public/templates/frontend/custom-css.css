@@ -1,0 +1,52 @@
+.c-content-feature-2 .c-title {
+  font-size: 19px;
+}
+
+.industries {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.margin-sr{
+  padding-left: 20px;
+}
+
+.margin-en{
+  margin-left: -20px;
+}
+
+.c-content-feature-8 > .c-grid > li > .c-card {
+    padding: 50px;
+}
+
+.h4-custom {
+  margin-top: 0px; !important
+}
+
+h4 {
+  color: #3f444a;
+  font-size: 16px;
+  margin: 2px 0; !important }
+
+#flash-message {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+}
+
+#inverted {
+  background: inherit;
+  background-clip: text;
+  color: transparent;
+  filter: invert(1);
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  .c-content-feature-8 > .c-grid > li > .c-card {
+      padding: 0px;
+  }
+
+
+}
